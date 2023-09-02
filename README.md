@@ -8,7 +8,7 @@ price negotiations than the number of bedrooms or a white-picket fence.
 The goal : With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, we want
 to predict the final price of each home.
 
-In this analysis, we compare different regression models in predicting the house price and present a great
+In this analysis, compare different regression models in predicting the house price and present a great
 prediction performance using stacking model along with an awesome interpretation using SHAP. The XGboost
 model shows that the gross area, the overall material used, the total square feet of basement area are the
 most important features that influence the house price.
